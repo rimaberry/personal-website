@@ -1,12 +1,12 @@
 /********************************************TAG SELECTORS*****************************************************************/
 a {
-  color: #235952;
+  color: #fff;
   font-family: 'Aclonica', sans-serif;
   margin: 10px 5px;
   text-decoration: none;
 }
 a:hover {
-  color: #f0d6d6;
+  color: #d4d0ce;
 }
 body {
   color: #235952;
@@ -97,7 +97,6 @@ p {
   width: 40%;
 }
 .copyright {
-  color: #b86e6e;
   font-size: 0.75rem;
   padding: 20px 0;
 }
