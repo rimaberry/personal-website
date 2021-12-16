@@ -1,5 +1,6 @@
 /********************************************TAG SELECTORS*****************************************************************/
 a {
+  color: #fff;
   font-family: 'Aclonica', sans-serif;
   margin: 10px 5px;
   text-decoration: none;
@@ -41,9 +42,6 @@ p {
   line-height: 2;
 }
 /********************************************CLASS SELECTORS*****************************************************************/
-.bottom-link{
-   color: #fff;
-}
 .bottom-section {
   background-color: #dfcdc3;
   padding: 50px 0 20px;
