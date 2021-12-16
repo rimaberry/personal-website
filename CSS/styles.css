@@ -42,6 +42,7 @@ p {
   line-height: 2;
 }
 /********************************************CLASS SELECTORS*****************************************************************/
+
 .bottom-section {
   background-color: #dfcdc3;
   padding: 50px 0 20px;
@@ -133,7 +134,7 @@ width: 50px;
   margin: 100px 0;
 }
 .my-resume {
-color: #dfcdc3;
+color: #ae806b;
 }
 .profile-img {
   border-radius: 100%;
